@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+body{
+    padding: 3%;
+}
+input, button {
+    margin: 1%;
+}
+
+ul {
+    border: solid 1px;
+    width: 30%;
+}
